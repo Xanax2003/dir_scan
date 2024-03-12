@@ -1,0 +1,29 @@
+selected dirs
+c:\windows\rescache\_merged\1899479104\,D,time,size
+c:\windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.VisualStudio.Tools.Office.Runtime\,D,time,size
+c:\windows\WinSxS\wow64_microsoft-windows-sethc_31bf3856ad364e35_10.0.22621.2506_none_4cef4ee3251b984d\,D,time,size
+c:\windows\WinSxS\wow64_microsoft-windows-i..sideincludebinaries_31bf3856ad364e35_10.0.22621.1_none_6826b2725a7151e7\,D,time,size
+c:\windows\WinSxS\wow64_microsoft-windows-d..nese-eacommonapijpn_31bf3856ad364e35_10.0.22621.2506_none_7c22bb1e80241955\,D,time,size
+c:\windows\WinSxS\wow64_microsoft-onecore-directx-dxcore_31bf3856ad364e35_10.0.22621.3085_none_9e35d89ab057f5f6\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\ed7efa2eec66da01130300007846e400\amd64_microsoft-windows-servicing-onecore-uapi_31bf3856ad364e35_10.0.22621.2792_none_58b3597e1f0ae27a\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\57a1386b6617da01e7030000b4732420\wow64_microsoft-windows-m..ation-mfmediaengine_31bf3856ad364e35_10.0.22621.2070_none_eac1c4081c7907a1\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\2b5ac4b61e0bda019f030000b8493040\amd64_userexperience-core_31bf3856ad364e35_10.0.22621.2070_none_984454904632d0eb\f\Core\FileExplorerExtensions\Assets\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\c1f2e6599189d901e10600006809e42e\amd64_serviceinitiatedhealing-client.resources_31bf3856ad364e35_10.0.22621.1194_en-us_b32b7bb969f42be1\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\d56b93bc8ba6d901cb030000a46fa853\wow64_microsoft-windows-cloudnotifications_31bf3856ad364e35_10.0.22621.608_none_fea4ac718e978764\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\c1f2e6599189d901e10600006809e42e\amd64_microsoft-windows-security-spp_31bf3856ad364e35_10.0.22621.1344_none_fa5589b99c7e77f8\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\364974ed5fd5d9017d070000f4586013\amd64_microsoft-windows-w..ient-core.resources_31bf3856ad364e35_10.0.22621.1778_en-us_e42262bf59dcd057\n\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\2b5ac4b61e0bda019f030000b8493040\amd64_microsoft-windows-appmanagement-uevwow_31bf3856ad364e35_10.0.22621.2070_none_274e6bbce1d0ec99\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\18cc168db449da0145080000c862d03b\wow64_microsoft-windows-directui_31bf3856ad364e35_10.0.22621.2715_none_a1107ad09ea58107\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\c1f2e6599189d901e10600006809e42e\amd64_microsoft-windows-a..iocorepolicymanager_31bf3856ad364e35_10.0.22621.900_none_aa9db798e46af346\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\29fede6971f6d901c1030000184f343d\amd64_microsoft-windows-dafipp_31bf3856ad364e35_10.0.22621.1635_none_3f702fc06f791601\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\364974ed5fd5d9017d070000f4586013\amd64_microsoft-onecore-directx-dxcore_31bf3856ad364e35_10.0.22621.1635_none_939b49827c2c62a0\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\18cc168db449da0145080000c862d03b\amd64_microsoft-windows-u..em-core-classdriver_31bf3856ad364e35_10.0.22621.608_none_924ce92eb7a5a7ab\r\,D,time,size
+c:\windows\WinSxS\amd64_microsoft.internati..ngs.commands.module_31bf3856ad364e35_10.0.22621.1_none_5a2f74efa5da8b51\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-u..datesupport-preview_31bf3856ad364e35_10.0.22621.2506_none_a5369a8a88d4d903\n\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\18cc168db449da0145080000c862d03b\amd64_microsoft-windows-b..nager-efi.resources_31bf3856ad364e35_10.0.22621.608_hr-hr_c9df887f8a023128\r\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-s..xperience.resources_31bf3856ad364e35_10.0.22621.3085_zh-cn_def387d7161d58bd\r\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-i..l-keyboard-00000c0c_31bf3856ad364e35_10.0.22621.1_none_5f336491498a7320\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-d..t-onecore.resources_31bf3856ad364e35_10.0.22621.3085_zh-cn_c1eab35860e18269\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-onecore-p..evicemanagement-rtl_31bf3856ad364e35_10.0.22621.2506_none_089f7556f866758e\r\,D,time,size
+c:\windows\WinSxS\amd64_c_barcodescanner.inf.resources_31bf3856ad364e35_10.0.22621.1_en-us_1f281fb6b2dc813c\,D,time,size
+end of dirs

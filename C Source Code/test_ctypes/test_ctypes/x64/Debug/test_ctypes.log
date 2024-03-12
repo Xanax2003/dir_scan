@@ -1,0 +1,21 @@
+﻿  functions.c
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(142,78): warning C4020: “mysql_real_connect”: 实参太多
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1148,34): warning C4028: 形参 1 与声明不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1253,31): warning C4133: “函数”: 从“char [2]”到“const wchar_t *const ”的类型不兼容
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1294,20): warning C4047: “函数”:“Stack *”与“Stack **”的间接级别不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1294,14): warning C4024: “StackPush”: 形参和实参 1 的类型不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1307,31): warning C4047: “函数”:“Stack *”与“Stack **”的间接级别不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1307,25): warning C4024: “StackPop”: 形参和实参 1 的类型不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1409,27): warning C4028: 形参 1 与声明不同
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1516,26): warning C4133: “函数”: 从“wchar_t *”到“const char *”的类型不兼容
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\functions.c(1517,21): warning C4133: “函数”: 从“wchar_t *”到“const char *”的类型不兼容
+  main.c
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(92,18): warning C4133: “函数”: 从“const char *”到“const TCHAR *”的类型不兼容
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(144,18): warning C4133: “函数”: 从“const char *”到“const TCHAR *”的类型不兼容
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(146,22): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(202,18): warning C4133: “函数”: 从“const char *”到“const TCHAR *”的类型不兼容
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(204,22): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\ii\source\repos\test_ctypes\test_ctypes\main.c(208,24): warning C4090: “函数”: 不同的“const”限定符
+  正在生成代码...
+    正在创建库 C:\Users\ii\source\repos\test_ctypes\x64\Debug\test_ctypes.lib 和对象 C:\Users\ii\source\repos\test_ctypes\x64\Debug\test_ctypes.exp
+  test_ctypes.vcxproj -> C:\Users\ii\source\repos\test_ctypes\x64\Debug\test_ctypes.dll
